@@ -13,7 +13,7 @@ public class Git2 {
         boolean estaAprobado=true;
 
      System.out.println("el área de la figura es "+areaFigura+" y mi estado civil es "+estadoCivil);
-
+        System.out.Println("Hola mundo")
 
 
 
